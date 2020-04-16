@@ -1,4 +1,4 @@
-// Problem 4: Minimum of two - correct
+// Problem 4: Minimum of Two
 #include <iostream>
 #include <sstream>
 

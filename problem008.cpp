@@ -1,4 +1,4 @@
-// Problem 8: Arithmatic Progression
+// Problem 8: Arithmetic Progression
 #include <iostream>
 #include <sstream>
 

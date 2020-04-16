@@ -1,4 +1,4 @@
-// Problem 15: Maximum of array - correct
+// Problem 15: Maximum of Array
 #include <iostream>
 #include <limits>
 #include <sstream>

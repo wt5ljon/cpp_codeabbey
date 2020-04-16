@@ -1,4 +1,4 @@
-// Problem 5: Minimum of three - correct
+// Problem 5: Minimum of Three
 #include <iostream>
 #include <sstream>
 
