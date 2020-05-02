@@ -1,4 +1,4 @@
-// Problem 34: Savings Calculagtor
+// Problem 34: Savings Calculator
 #include <iostream>
 #include <sstream>
 
